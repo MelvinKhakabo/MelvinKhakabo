@@ -10,7 +10,7 @@ I am a passionate bioinformatics researcher and data science fellow currently en
 * ✉️  You can contact me at [melvinkhakabo@gmail.com](mailto:melvinkhakabo@gmail.com)
 * 🚀  I'm currently working on [Machine Learning for Oncology Research, focused on modeling and predicting cancer datasets to identify potential biomarkers.](http://https://github.com/MelvinKhakabo/HackBio_Internship-DS-ML_in_Bioinformatics_For_Oncology_Research)
 * 🧠  I'm learning Data Science (Python, Machine Learning, Deep Learning and NLPs)
-* 🤝  I'm open to collaborating on Machine Learning and Data Analysis Projects.
+* 🤝  I'm open to collaborating on Machine Learning and Data Science Projects.
 * ⚡  My data is like my cat: sometimes it purrs, sometimes it bites, but it's always plotting something.
 
 <a href="https://www.github.com/MelvinKhakabo" target="_blank" rel="noreferrer"><img
